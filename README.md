@@ -1,6 +1,6 @@
 # Employee-Management
 # Installation
- - Clone github
+ - Clone github repo
  - NPM Install
 
 # Usage 
